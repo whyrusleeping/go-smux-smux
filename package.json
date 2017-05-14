@@ -12,6 +12,12 @@
       "hash": "QmWKn2C9aLr6KDQiFEig7kBq63ujafW6PgxmQ7jzRxw3P9",
       "name": "smux",
       "version": "0.0.0"
+    },
+    {
+      "author": "whyrusleeping",
+      "hash": "QmeZBgYBHvxMukGK5ojg28BCNLB9SeXqT7XXg6o7r2GbJy",
+      "name": "go-stream-muxer",
+      "version": "1.1.0"
     }
   ],
   "gxVersion": "0.11.0",
