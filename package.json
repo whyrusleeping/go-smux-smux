@@ -1,0 +1,24 @@
+{
+  "author": "whyrusleeping",
+  "bugs": {
+    "url": "https://github.com/whyrusleeping/go-smux-smux"
+  },
+  "gx": {
+    "dvcsimport": "github.com/whyrusleeping/go-smux-smux"
+  },
+  "gxDependencies": [
+    {
+      "author": "whyrusleeping",
+      "hash": "QmWKn2C9aLr6KDQiFEig7kBq63ujafW6PgxmQ7jzRxw3P9",
+      "name": "smux",
+      "version": "0.0.0"
+    }
+  ],
+  "gxVersion": "0.11.0",
+  "language": "go",
+  "license": "",
+  "name": "go-smux-smux",
+  "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
+  "version": "0.0.0"
+}
+
